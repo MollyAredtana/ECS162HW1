@@ -1,0 +1,49 @@
+img {
+  width: 100%;
+}
+
+div.imageWrap {
+  width: 200px;
+}
+
+div.tile {
+  width: 250px;
+  padding: 10px;
+  background-color: #87d8ec;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 0 0 25%
+}
+
+
+div.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #87d8ec;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  
+}
+
+
+div.background {
+  background-color: #87d8ec;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+
